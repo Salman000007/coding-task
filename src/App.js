@@ -8,7 +8,7 @@ import Footer from './Componets/Footer';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App-test">
     <Header/>
     <FirstCompo/>
     <Explore/>
